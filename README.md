@@ -45,6 +45,8 @@ do Python. Apesar de já existirem versões mais recentes,
 * Funções
     * [Definindo funções - parte 1](https://docs.python.org/pt-br/3.9/tutorial/controlflow.html#defining-functions)
     * [Definindo funções - parte 2](https://docs.python.org/pt-br/3.9/tutorial/controlflow.html#more-on-defining-functions)
+    * [Funções anônimas (lambda)](https://docs.python.org/pt-br/3.9/tutorial/controlflow.html#lambda-expressions)
+    * [Documentação de funções](https://docs.python.org/pt-br/3.9/tutorial/controlflow.html#documentation-strings)
 
 
 ## Referências
