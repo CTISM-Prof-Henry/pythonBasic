@@ -25,6 +25,7 @@ do Python. Apesar de já existirem versões mais recentes,
     * [Introdução informal à Python](https://docs.python.org/pt-br/3.9/tutorial/introduction.html#an-informal-introduction-to-python)
         * [Números e expressões aritméticas](https://docs.python.org/pt-br/3.9/tutorial/introduction.html#numbers)
         * [Strings](https://docs.python.org/pt-br/3.9/tutorial/introduction.html#strings)
+            * [formatação de strings](https://docs.python.org/pt-br/3.9/tutorial/inputoutput.html#the-string-format-method)
         * [pass](https://docs.python.org/pt-br/3.9/tutorial/controlflow.html#pass-statements)
 * Controle de fluxo
     * [if, else, elif](https://docs.python.org/pt-br/3.9/tutorial/controlflow.html#if-statements)
@@ -47,6 +48,12 @@ do Python. Apesar de já existirem versões mais recentes,
     * [Definindo funções - parte 2](https://docs.python.org/pt-br/3.9/tutorial/controlflow.html#more-on-defining-functions)
     * [Funções anônimas (lambda)](https://docs.python.org/pt-br/3.9/tutorial/controlflow.html#lambda-expressions)
     * [Documentação de funções](https://docs.python.org/pt-br/3.9/tutorial/controlflow.html#documentation-strings)
+* [Leitura e escrita](https://docs.python.org/pt-br/3.9/tutorial/inputoutput.html#reading-and-writing-files)
+    * [biblioteca json](https://docs.python.org/pt-br/3.9/tutorial/inputoutput.html#saving-structured-data-with-json)
+* [Exceções](https://docs.python.org/pt-br/3.9/tutorial/errors.html)
+* [Classes](https://docs.python.org/pt-br/3.9/tutorial/classes.html)
+* [Modulos](https://docs.python.org/pt-br/3.9/tutorial/modules.html#modules)
+    * [Pacotes](https://docs.python.org/pt-br/3.9/tutorial/modules.html#packages)
 
 
 ## Referências
