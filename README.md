@@ -56,6 +56,13 @@ do Python. Apesar de já existirem versões mais recentes,
     * [Pacotes](https://docs.python.org/pt-br/3.9/tutorial/modules.html#packages)
 
 
+## Recursos adicionais
+
+### Jogos
+
+* [Compute It](https://compute-it.toxicode.fr/?hour-of-code&progression=python)
+* [Silent Teacher](https://silentteacher.toxicode.fr/hour_of_code.html?theme=basic_python)
+
 ## Referências
 
 * [Página inicial da documentação do Python 3.9](https://docs.python.org/pt-br/3.9/tutorial/index.html)
