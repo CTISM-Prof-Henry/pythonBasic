@@ -63,6 +63,15 @@ do Python. Apesar de já existirem versões mais recentes,
 * [Compute It](https://compute-it.toxicode.fr/?hour-of-code&progression=python)
 * [Silent Teacher](https://silentteacher.toxicode.fr/hour_of_code.html?theme=basic_python)
 
+### Outros repositórios
+
+**Nota:** os repositórios estão incompletos. Eles serão elaborados a medida
+que a disciplina for sendo lecionada.
+
+* [pythonFlask](https://github.com/CTISM-Prof-Henry/pythonFlask)
+* [pythonScopes](https://github.com/CTISM-Prof-Henry/pythonScopes)
+* [pythonDecorators](https://github.com/CTISM-Prof-Henry/pythonDecorators)
+
 ## Referências
 
 * [Página inicial da documentação do Python 3.9](https://docs.python.org/pt-br/3.9/tutorial/index.html)
