@@ -68,9 +68,11 @@ do Python. Apesar de já existirem versões mais recentes,
 **Nota:** os repositórios estão incompletos. Eles serão elaborados a medida
 que a disciplina for sendo lecionada.
 
-* [pythonFlask](https://github.com/CTISM-Prof-Henry/pythonFlask)
+* pythonRecursion
 * [pythonScopes](https://github.com/CTISM-Prof-Henry/pythonScopes)
 * [pythonDecorators](https://github.com/CTISM-Prof-Henry/pythonDecorators)
+* [pythonFlask](https://github.com/CTISM-Prof-Henry/pythonFlask)
+
 
 ## Referências
 
