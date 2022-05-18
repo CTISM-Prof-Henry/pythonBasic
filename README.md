@@ -63,6 +63,10 @@ do Python. Apesar de já existirem versões mais recentes,
 * [Compute It](https://compute-it.toxicode.fr/?hour-of-code&progression=python)
 * [Silent Teacher](https://silentteacher.toxicode.fr/hour_of_code.html?theme=basic_python)
 
+### Listas de exercícios
+
+* [pythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
+
 ### Outros repositórios
 
 **Nota:** os repositórios estão incompletos. Eles serão elaborados a medida
