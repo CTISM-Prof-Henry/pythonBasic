@@ -10,7 +10,9 @@ e outro com os áudios d'A Hora do Faro. Mostre na tela:
     * Os áudios que estão apenas no programa do Ratinho
     * Os áudios que estão apenas n'A Hora do Faro
     * A diferença da união com a interseção dos áudios dos dois programas
-    * Após rodar o comando `pip install matplotlib-venn` na linha de comando do Anaconda, utilize o template abaixo para renderizar o diagrama de Venn destes conjuntos:
+    * Após rodar o comando `pip install matplotlib-venn` na linha de comando do
+      Anaconda (veja o tutorial no [pythonEssentials](https://github.com/CTISM-Prof-Henry/pythonEssentials/blob/main/chapters/packages.md)),
+      utilize o template abaixo para renderizar o diagrama de Venn destes conjuntos:
 
 ```python
 import matplotlib.pyplot as plt
@@ -32,7 +34,8 @@ _Template:_
 def concatena(d1: dict, d2: dict):
     pass
 
-concatena({'a': 1, 'b': 2}, {'c': 3, 'd': 4})
+resposta = concatena({'a': 1, 'b': 2}, {'c': 3, 'd': 4})
+print(resposta)
 ```
 
 Saída: 
@@ -47,7 +50,8 @@ _Template:_
 
 ```python
 meu_dict = {'a': 1, 'b': 2}
-imprime_dicionario(meu_dict)
+resposta = imprime_dicionario(meu_dict)
+print(resposta)
 ```
 
 Saída:
