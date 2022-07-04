@@ -66,7 +66,8 @@ do Python. Apesar de já existirem versões mais recentes,
 ### Listas de exercícios
 
 * [pythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
-* [Exercícios sobre conjuntos e dicionários](atividades/exercícios_dicionários.md)
+* [Conjuntos e dicionários](atividades/exercícios_dicionários.md)
+* [Funções](atividades/funções.md)
 
 ### Outros repositórios
 
