@@ -79,7 +79,7 @@ Aperte q (de quit) para sair da janela que abrir.
 
 Melhore a documentação da função colocando uma listagem dos parâmetros de entrada,
 seus tipos, o tipo de dado de saída da função, e uma descrição dos parâmetros de 
-entrada e saída.
+entrada e saída. 
 
 
 7. [(Adaptado da WikiPython)](
