@@ -68,6 +68,7 @@ do Python. Apesar de já existirem versões mais recentes,
 * [pythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
 * [Conjuntos e dicionários](atividades/exercícios_dicionários.md)
 * [Funções](atividades/funções.md)
+* [Exceções](atividades/exceções.md)
 
 ### Outros repositórios
 
