@@ -103,3 +103,10 @@ finally:
     plt.axis('off')
     plt.show()
 ```
+
+## O senhor curou onde doía!
+
+https://user-images.githubusercontent.com/13355236/178062492-5b1a7018-203a-4f62-80d2-d1443ea715cf.mp4
+
+
+
