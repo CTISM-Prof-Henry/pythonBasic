@@ -12,6 +12,7 @@ Apenas trate as exceções.** (vamos deixar o artista fazer a arte dele)
 * Depois, refaça cada um dos exercícios, corrigindo o código de maneira que ele
   rode sem exceções (vamos dar uma mãozinha para Ye se recuperar)
 
+**Dica:** [Uma coisinha para você entrar no clima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nMr04?si=785097fe4b2c48f9)
 
 1. **(resolvido)** Use uma cláusula `try` e outra cláusula `except` para tratar
    a exceção abaixo. Especifique o tipo de exceção que está sendo tratada, e 
