@@ -19,6 +19,9 @@ Exemplo: `func` é a função que eleva um número ao quadrado, e `a` é a lista
 Código:
 
 ```python
+def aplica(funcao, lista):
+   pass  # implementar função que aplica funcao a cada item da lista
+
 def func(x):
     pass  # implementar função que eleva x ao quadrado
 

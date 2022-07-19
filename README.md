@@ -65,8 +65,11 @@ do Python. Apesar de já existirem versões mais recentes,
 
 ### Listas de exercícios
 
-* [pythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
-* [Conjuntos e dicionários](atividades/exercícios_dicionários.md)
+* [pythonBrasil](https://wiki.python.org.br/ListaDeExercicios) (externo)
+
+* [Estrutura sequencial](atividades/sequenciais.md)
+* [Conjuntos](atividades/conjuntos.md)
+* [Dicionários](atividades/dicionários.md)
 * [Funções](atividades/funções.md)
 * [Exceções](atividades/exceções.md)
 
