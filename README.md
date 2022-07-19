@@ -65,9 +65,14 @@ do Python. Apesar de já existirem versões mais recentes,
 
 ### Listas de exercícios
 
-* [pythonBrasil](https://wiki.python.org.br/ListaDeExercicios) (externo)
+[pythonBrasil](https://wiki.python.org.br/ListaDeExercicios) (externo)
+
+Agradecimentos ao @pmcarvalho por resolver alguns exercícios destas listas.
 
 * [Estrutura sequencial](atividades/sequenciais.md)
+* [Estrutura de decisão](atividades/decisões.md)
+* [Laços de repetição](atividades/laços.md)
+* [Listas](atividades/listas.md)
 * [Conjuntos](atividades/conjuntos.md)
 * [Dicionários](atividades/dicionários.md)
 * [Funções](atividades/funções.md)
@@ -83,6 +88,7 @@ que a disciplina for sendo lecionada.
 * [pythonDecorators](https://github.com/CTISM-Prof-Henry/pythonDecorators)
 * [pythonSelenium](https://github.com/CTISM-Prof-Henry/pythonSelenium)
 * [pythonFlask](https://github.com/CTISM-Prof-Henry/pythonFlask)
+* [pythonClasses](https://github.com/CTISM-Prof-Henry/pythonClasses)
 
 
 ## Referências
