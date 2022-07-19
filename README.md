@@ -67,7 +67,7 @@ do Python. Apesar de já existirem versões mais recentes,
 
 [pythonBrasil](https://wiki.python.org.br/ListaDeExercicios) (externo)
 
-Agradecimentos ao @pmcarvalho por resolver alguns exercícios destas listas.
+Agradecimentos ao [@pmcarvalho](https://github.com/pmcarvalho) por resolver alguns exercícios destas listas.
 
 * [Estrutura sequencial](atividades/sequenciais.md)
 * [Estrutura de decisão](atividades/decisões.md)
