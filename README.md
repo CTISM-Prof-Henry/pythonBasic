@@ -76,6 +76,7 @@ Agradecimentos ao [@pmcarvalho](https://github.com/pmcarvalho) por resolver algu
 * [Conjuntos](atividades/conjuntos.md)
 * [Dicionários](atividades/dicionários.md)
 * [Funções](atividades/funções.md)
+* [Funções - Wikipython](atividades/funções_wikipython.md)
 * [Exceções](atividades/exceções.md)
 
 ### Outros repositórios
