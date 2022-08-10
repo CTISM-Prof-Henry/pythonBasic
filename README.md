@@ -84,13 +84,16 @@ Agradecimentos ao [@pmcarvalho](https://github.com/pmcarvalho) por resolver algu
 **Nota:** os repositórios estão incompletos. Eles serão elaborados a medida
 que a disciplina for sendo lecionada.
 
-* [pythonRecursion](https://github.com/CTISM-Prof-Henry/pythonRecursion)
-* [pythonScopes](https://github.com/CTISM-Prof-Henry/pythonScopes)
-* [pythonDecorators](https://github.com/CTISM-Prof-Henry/pythonDecorators)
-* [pythonSelenium](https://github.com/CTISM-Prof-Henry/pythonSelenium)
-* [pythonFlask](https://github.com/CTISM-Prof-Henry/pythonFlask)
-* [pythonClasses](https://github.com/CTISM-Prof-Henry/pythonClasses)
+⭐ = boa documentação
 
+* [pythonEssentials](https://github.com/CTISM-Prof-Henry/pythonEssentials) ⭐
+* [pythonModules](https://github.com/CTISM-Prof-Henry/pythonModules) ⭐
+* [pythonClasses](https://github.com/CTISM-Prof-Henry/pythonClasses) ⭐
+* [pythonDecorators](https://github.com/CTISM-Prof-Henry/pythonDecorators)
+* [pythonScopes](https://github.com/CTISM-Prof-Henry/pythonScopes)
+* [pythonRecursion](https://github.com/CTISM-Prof-Henry/pythonRecursion)
+* [pythonSelenium](https://github.com/CTISM-Prof-Henry/pythonSelenium) ⭐
+* [pythonFlask](https://github.com/CTISM-Prof-Henry/pythonFlask)
 
 ## Referências
 
