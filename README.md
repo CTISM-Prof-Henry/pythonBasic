@@ -81,19 +81,7 @@ Agradecimentos ao [@pmcarvalho](https://github.com/pmcarvalho) por resolver algu
 
 ### Outros repositórios
 
-**Nota:** os repositórios estão incompletos. Eles serão elaborados a medida
-que a disciplina for sendo lecionada.
-
-⭐ = boa documentação
-
-* [pythonEssentials](https://github.com/CTISM-Prof-Henry/pythonEssentials) ⭐
-* [pythonModules](https://github.com/CTISM-Prof-Henry/pythonModules) ⭐
-* [pythonClasses](https://github.com/CTISM-Prof-Henry/pythonClasses) ⭐
-* [pythonDecorators](https://github.com/CTISM-Prof-Henry/pythonDecorators)
-* [pythonScopes](https://github.com/CTISM-Prof-Henry/pythonScopes)
-* [pythonRecursion](https://github.com/CTISM-Prof-Henry/pythonRecursion)
-* [pythonSelenium](https://github.com/CTISM-Prof-Henry/pythonSelenium) ⭐
-* [pythonFlask](https://github.com/CTISM-Prof-Henry/pythonFlask)
+Consule repositórios sobre assuntos específicos na página [CTISM-Prof-Henry](https://github.com/CTISM-Prof-Henry).
 
 ## Referências
 
