@@ -81,7 +81,7 @@ Agradecimentos ao [@pmcarvalho](https://github.com/pmcarvalho) por resolver algu
 
 ### Outros repositórios
 
-Consule repositórios sobre assuntos específicos na página [CTISM-Prof-Henry](https://github.com/CTISM-Prof-Henry).
+Consulte repositórios sobre assuntos específicos na página [CTISM-Prof-Henry](https://github.com/CTISM-Prof-Henry).
 
 ## Referências
 
