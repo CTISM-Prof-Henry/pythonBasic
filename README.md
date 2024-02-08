@@ -56,6 +56,26 @@ do Python. Apesar de já existirem versões mais recentes,
     * [Pacotes](https://docs.python.org/pt-br/3.9/tutorial/modules.html#packages)
 
 
+## Instalação
+
+```bash
+conda install pybasic python=3.11.* pip jupyter notebook jupyterlab matplotlib --yes
+pip install hide_code
+jupyter nbextension install --py --user hide_code
+jupyter nbextension enable --py --user hide_code
+jupyter serverextension enable --py --user hide_code
+conda activate pybasic
+```
+
+## Uso
+
+Por exemplo:
+
+```bash
+conda activate pybasic
+jupyter nbconvert --to slides "atividades/classes/aula polimorfismo.ipynb" --post serve
+```
+
 ## Recursos adicionais
 
 ### Jogos
