@@ -60,11 +60,6 @@ do Python. Apesar de já existirem versões mais recentes,
 
 ```bash
 conda install pybasic python=3.11.* pip jupyter notebook jupyterlab matplotlib --yes
-pip install hide_code
-jupyter nbextension install --py --user hide_code
-jupyter nbextension enable --py --user hide_code
-jupyter serverextension enable --py --user hide_code
-conda activate pybasic
 ```
 
 ## Uso
