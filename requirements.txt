@@ -1,3 +1,4 @@
 notebook
 jupyter
-nb-mermaid 
+jupyterlab
+matplotlib
